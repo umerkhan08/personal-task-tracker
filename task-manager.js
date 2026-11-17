@@ -1,3 +1,3 @@
-function addTask(task) {
-    console.log("Task added: " + task);
+function completeTask(task) {
+    console.log("Task completed: " + task);
 }
