@@ -1,3 +1,3 @@
-function completeTask(task) {
-    console.log("Task completed: " + task);
+function deleteTask(task) {
+    console.log("Task deleted: " + task);
 }
